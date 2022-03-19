@@ -1,6 +1,6 @@
 birth_Year = int(input("Enter birth year"))
 age = ""
-current_Year = 2022
+current_Year = 2022 
 
 age = current_Year - birth_Year
 
